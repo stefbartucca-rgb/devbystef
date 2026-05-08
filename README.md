@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**stefbartucca-rgb/stefbartucca-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Germany.
 
-Here are some ideas to get you started:
+I mostly build practical software — from internal tools and business apps to web projects, APIs, and database-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack includes C#, SQL Server, React, TypeScript, PHP, WordPress, and MySQL.
+
+This profile is where I share projects, experiments, and things I'm currently working on.
+
+---
+
+### Tools & Tech
+
+- C#, SQL Server, ASP.NET Core
+- React, TypeScript, JavaScript
+- PHP, WordPress, MySQL
+- Git, APIs, automation, custom business tools
+
+---
+
+### A Bit About Me
+
+- I like building things that are simple, useful, and practical
+- I enjoy solving annoying little problems more than I probably should
+- I’m usually working on side projects or improving existing systems
+- I prefer clean structure over unnecessary complexity
