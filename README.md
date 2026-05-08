@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm a software developer based in Germany.
+I'm [Stefano](https://de.linkedin.com/in/stefano-bartucca-825b70278) a software developer based in Germany.
 
 I mostly build practical software — from internal tools and business apps to web projects, APIs, and database-driven systems.
 
