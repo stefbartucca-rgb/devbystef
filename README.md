@@ -1,29 +1,34 @@
-### Hey there 👋
+# Hi, I'm Stefano 👋
 
-I'm [Stefano](https://de.linkedin.com/in/stefano-bartucca-825b70278) a software developer based in Germany.
+Database & Application Developer from Germany. 8+ years working with **C#/.NET and Microsoft SQL Server**, building internal business tools, automation, and database-driven systems. I also run [devbystef.com](https://devbystef.com), a freelance practice delivering multilingual web projects for clients in the DACH region and Italy.
 
-I mostly build practical software — from internal tools and business apps to web projects, APIs, and database-driven systems.
+🇩🇪 🇮🇹 Native German & Italian · Fluent English
 
-My main stack includes C#, SQL Server, React, TypeScript, PHP, WordPress, and MySQL.
+## What I work with
 
-This profile is where I share projects, experiments, and things I'm currently working on.
+**Core:** C# · .NET · ASP.NET · SQL Server (T-SQL, administration, performance tuning)
+**Web:** React · TypeScript · Node.js · PHP · WordPress
+**Focus:** process automation, database optimization, practical business tools
 
-[More about me](https://github.com/stefbartucca-rgb/stefbartucca-rgb/blob/main/cv_stefanobartucca_en.pdf)
+## Selected client work
 
----
+Most of my day-to-day code is proprietary (internal company tools and client projects), so here is what I can share:
 
-### Tools & Tech
+- **[propheon.io](https://propheon.io)** — complete relaunch of a prop trading platform's website: multilingual (WPML), conversion-focused structure, WordPress
+- **Custom CRM for an investment company** — client and lead management, built to spec *(private codebase)*
+- **Trilingual direct-booking websites** for tourism businesses in Calabria, Italy — React, TypeScript, DE/IT/EN
 
-- C#, SQL Server, ASP.NET Core
-- React, TypeScript, JavaScript
-- PHP, WordPress, MySQL
-- Git, APIs, automation, custom business tools
+## Public repositories
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [bartucca-digital](https://github.com/stefbartucca-rgb/bartucca-digital) | Multilingual portfolio site with custom branding and Netlify Forms | React, TypeScript, Vite |
+| [praxis-dashboard](https://github.com/stefbartucca-rgb/praxis-dashboard) | Coding challenge for a job application, built under time constraints | TypeScript |
+| *SQL Server toolkit — coming soon* | Generic MSSQL health check / maintenance tool | C#, T-SQL |
 
-### A Bit About Me
+## Currently
 
-- I like building things that are simple, useful, and practical
-- I enjoy solving annoying little problems more than I probably should
-- I’m usually working on side projects or improving existing systems
-- I prefer clean structure over unnecessary complexity
+- Building direct-booking websites for tourism businesses in southern Italy
+- Working on a public SQL Server tooling project to open-source part of what I do daily
+
+📫 [LinkedIn](https://www.linkedin.com/in/stefano-bartucca-825b70278/) · [devbystef.com](https://devbystef.com)
