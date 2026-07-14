@@ -6,9 +6,9 @@ Database & Application Developer from Germany. 8+ years working with **C#/.NET a
 
 ## What I work with
 
-**Core:** C# · .NET · ASP.NET · SQL Server (T-SQL, administration, performance tuning)
-**Web:** React · TypeScript · Node.js · PHP · WordPress
-**Focus:** process automation, database optimization, practical business tools
+- **Core:** C# · .NET · ASP.NET · WPF · SQL Server (T-SQL, administration, performance tuning)
+- **Web:** React · TypeScript · Node.js · Vite · Tailwind CSS · PHP · WordPress
+- **Focus:** process automation, database optimization, practical business tools
 
 ## Selected client work
 
@@ -22,13 +22,13 @@ Most of my day-to-day code is proprietary (internal company tools and client pro
 
 | Project | What it is | Stack |
 |---|---|---|
+| [mssql-tool](https://github.com/stefbartucca-rgb/mssql-tool) | Windows admin toolbox for SQL Server Express: backups, restores, DBCC, index maintenance, unattended instance setup (.NET 8, WPF, Fluent UI) | C#, T-SQL |
 | [bartucca-digital](https://github.com/stefbartucca-rgb/bartucca-digital) | Multilingual portfolio site with custom branding and Netlify Forms | React, TypeScript, Vite |
 | [praxis-dashboard](https://github.com/stefbartucca-rgb/praxis-dashboard) | Coding challenge for a job application, built under time constraints | TypeScript |
-| [mssql-tool](https://github.com/stefbartucca-rgb/mssql-tool) | Generic MSSQL health check / maintenance tool | C#, T-SQL |
 
 ## Currently
 
+- Just released [mssql-tool](https://github.com/stefbartucca-rgb/mssql-tool), a Windows admin toolbox for SQL Server — feedback welcome
 - Building direct-booking websites for tourism businesses in southern Italy
-- Working on a public SQL Server tooling project to open-source part of what I do daily
 
 📫 [LinkedIn](https://www.linkedin.com/in/stefano-bartucca-825b70278/) · [devbystef.com](https://devbystef.com)
