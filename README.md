@@ -24,7 +24,7 @@ Most of my day-to-day code is proprietary (internal company tools and client pro
 |---|---|---|
 | [bartucca-digital](https://github.com/stefbartucca-rgb/bartucca-digital) | Multilingual portfolio site with custom branding and Netlify Forms | React, TypeScript, Vite |
 | [praxis-dashboard](https://github.com/stefbartucca-rgb/praxis-dashboard) | Coding challenge for a job application, built under time constraints | TypeScript |
-| *SQL Server toolkit — coming soon* | Generic MSSQL health check / maintenance tool | C#, T-SQL |
+| [mssql-tool](https://github.com/stefbartucca-rgb/mssql-tool) | Generic MSSQL health check / maintenance tool | C#, T-SQL |
 
 ## Currently
 
